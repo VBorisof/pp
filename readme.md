@@ -1,4 +1,6 @@
-# PP is a simple peer to peer UDP video chat.
+# Overview
+
+PP is a simple peer to peer UDP video chat.
 
 # TODO:
   - Fetch my connection details automatically
